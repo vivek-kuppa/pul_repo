@@ -1,4 +1,4 @@
-gg
+ii
 with CountTable AS
 SELECT
   CUSTOMER_ID,
