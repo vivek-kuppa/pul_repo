@@ -1,4 +1,5 @@
 -- wrote a the model and pushed it
+hhjoidkm'f;j;lfm
 {{config(materialized='table')}}
         
    with en_sales as(     
