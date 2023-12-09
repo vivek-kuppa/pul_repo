@@ -1,4 +1,5 @@
 -- pull this
+jkfhsjkfnjznvnjcdnmdnzn jknc jvlm z
 {{config(materialized='table')}}
         
    with en_sales as(     
