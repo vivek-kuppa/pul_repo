@@ -1,4 +1,4 @@
-
+-- pull this
 {{config(materialized='table')}}
         
    with en_sales as(     
@@ -31,3 +31,8 @@
         )
 
 select * from en_sales
+
+
+
+
+
