@@ -1,5 +1,6 @@
-11-- pushed this
+-- pushed this
 {{config(materialized='table')}}
+   kk
    with en_sales as(     
         SELECT
         c.id AS customer_id,
