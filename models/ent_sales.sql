@@ -1,6 +1,6 @@
 -- pushed this
 {{config(materialized='table')}}
-        kjcdbshkjcbk
+        ggggg
    with en_sales as(     
         SELECT
         c.id AS customer_id,
