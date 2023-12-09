@@ -1,6 +1,6 @@
 -- pushed this
 {{config(materialized='table')}}
-jfnjkzn
+
    with en_sales as(     
         SELECT
         c.id AS customer_id,
