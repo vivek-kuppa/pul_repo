@@ -1,4 +1,4 @@
--- wrote a the model and pushed it
+-- pushed this
 {{config(materialized='table')}}
         
    with en_sales as(     
