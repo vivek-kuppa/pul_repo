@@ -1,4 +1,4 @@
-
+dont change this
 with CountTable AS
 SELECT
   CUSTOMER_ID,
