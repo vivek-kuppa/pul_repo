@@ -1,7 +1,5 @@
 -- pushed this
 {{config(materialized='table')}}
-kfkdsmkm
-        
    with en_sales as(     
         SELECT
         c.id AS customer_id,
