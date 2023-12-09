@@ -1,0 +1,12 @@
+
+
+version: 2
+
+models:
+  - name: create_table
+
+tests:
+  - unique:
+      column: id
+  - not_null:
+      column: id

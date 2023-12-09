@@ -1,0 +1,9 @@
+version: 2
+
+models:
+  - name: ent_sales
+    columns:
+      - name: CUSTOMER_ID
+        tests:
+          - unique
+          - not_null
