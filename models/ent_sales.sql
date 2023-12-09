@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 -- pushed this
+=======
+-- wrote a the model and pushed it
 {{config(materialized='table')}}
         
    with en_sales as(     
