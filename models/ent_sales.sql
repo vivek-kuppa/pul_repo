@@ -1,5 +1,4 @@
--- pull this
-jkfhsjkfnjznvnjcdnmdnzn jknc jvlm z
+-- pushed this
 {{config(materialized='table')}}
         
    with en_sales as(     
