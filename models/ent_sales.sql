@@ -1,7 +1,6 @@
 -- pushed this
 {{config(materialized='table')}}
 
-
 WITH en_sales AS (
     SELECT
         CASE
