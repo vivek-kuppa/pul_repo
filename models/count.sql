@@ -1,4 +1,3 @@
-see
 with CountTable AS
 SELECT
   CUSTOMER_ID,
